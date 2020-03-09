@@ -1,8 +1,8 @@
-#Instagram user profile pic crawler + bio 
+# Instagram user profile pic crawler + bio 
 
 
-how to run?
+# how to run?
 
 
-# python3 insta.py
+    # python3 insta.py
 
